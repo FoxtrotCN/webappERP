@@ -1,4 +1,7 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebFormLogin.aspx.cs" Inherits="WebApplicationERP.Forms.Security.WebFormLogin" %>
+﻿<%@ Page Language="C#" 
+    AutoEventWireup="true" 
+    CodeBehind="WebFormLogin.aspx.cs" 
+    Inherits="WebApplicationERP.Forms.Security.WebFormLogin" %>
 
 <!DOCTYPE html>
 
